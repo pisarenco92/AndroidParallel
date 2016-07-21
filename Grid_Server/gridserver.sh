@@ -1,0 +1,1 @@
+java -jar /Users/gpisarenco/Documents/workspace/namshi-mobile-tests/android-automation/Parallel/Grid_Server/selenium-server-standalone-2.53.1.jar -role hub http://127.0.0.1:4444/grid/console

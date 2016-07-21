@@ -1,0 +1,1 @@
+appium -a 127.0.0.1 -p 4724 --bootstrap-port 4738 --default-capabilities '{"udid":"emulator-5554", "chromedriver-port":"9528"}' --nodeconfig /Users/gpisarenco/Documents/workspace/namshi-mobile-tests/android-automation/Parallel/Grid_Server/Node/jsonFiles/nodeconfig_2.json
